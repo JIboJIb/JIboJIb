@@ -4,4 +4,4 @@
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/vlad-hladkyi/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<img src="https://img.icons8.com/color/48/000000/apple-mail.png"/>
+<a href="hladkyi.vlados@gmail.com">vlad@webref.ru</a><img src="https://img.icons8.com/color/48/000000/apple-mail.png"/>
